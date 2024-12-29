@@ -47,6 +47,7 @@ I started my career working in retail and eventually moved on to Procurement. I 
 ### 🎓 Education
    - ***Northern Illinois University, Dekalb, IL***
       - Bachelor of Science (B.S.) Buisness Administration
+     
 ---
 
 ### 💡 Skills:

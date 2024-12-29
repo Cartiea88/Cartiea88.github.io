@@ -2,7 +2,7 @@
 
 ---
 
-Here, you'll find a showcase of my journey through the world of cybersecurity, including hands-on projects, professional experiences, certifications, and blog-style posts sharing my thoughts and learning experiences.
+Here, you'll find a showcase of my journey through the world of cybersecurity, including hands-on projects, professional experiences, & certifications.
 
 ---
 
@@ -26,7 +26,7 @@ Here, you'll find a showcase of my journey through the world of cybersecurity, i
 ---
 
 ## 👨🏽‍💻 About Me
-My name is Christopher Danley, and I am an aspiring cybersecurity professional. I am currently focused on expanding my expertise in vulnerability management, threat detection, and incident response as I work toward becoming a **Tier 1 Cybersecurity Analyst**. 
+My name is Christopher Danley, and I am an aspiring cybersecurity professional. I am currently focused on expanding my expertise in vulnerability management, threat detection, and incident response as I work toward becoming a **Tier 1 Cybersecurity/SOC Analyst**. 
 
 Get to know me a little better: [More about me](aboutme.md)
 

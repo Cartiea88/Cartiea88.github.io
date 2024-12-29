@@ -15,7 +15,7 @@ For a complete view of my portfolio, visit my [full portfolio](index.md).
 If you have any questions, opportunities, or would like to connect, feel free to reach out:
 
 - **Email**: [cartiea88@gmail.com](mailto:cartiea88@gmail.com)
-- **LinkedIn**: [Christopher Danley](cartiea88@gmail.com)
+- **LinkedIn**: [Christopher Danley](https://www.linkedin.com/in/christopherdanley/)
 
 I’m always open to networking, collaboration, and opportunities to contribute to the cybersecurity community.
 

@@ -21,7 +21,6 @@ Here, you'll find a showcase of my journey through the world of cybersecurity, i
      - [🛠️ Tools/Languages](#%EF%B8%8F-toolslanguages)
 - [📂 Projects](#-projects)
 - [📄 Resume](#-resume)
-- [✍🏽 Blog Posts](#-blog-posts)
 - [💬 Contact Information](#-contact-information)
 
 ---
@@ -50,10 +49,9 @@ I started my career working in retail and eventually moved on to Procurement. I 
       - Bachelor of Science (B.S.) Buisness Administration
 ---
 
-### 💡 Skills
+### 💡 Skills:
 
 #### 🛡️ Technical Skills (In-Progress)
-
 
 #### 💼 Professional Skills
    - Critical Thinking

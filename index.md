@@ -79,3 +79,12 @@ I started my career working in retail and eventually moved on to Procurement. I 
 ## 📄 Resume (In-Progress)
 
 ---
+
+## 📞 Contact Information
+
+If you have any questions, opportunities, or would like to connect, feel free to reach out:
+
+- **Email**: [cartiea88@gmail.com](mailto:cartiea88@gmail.com)
+- **LinkedIn**: [Christopher Danley](https://www.linkedin.com/in/christopherdanley/)
+
+I’m always open to networking, collaboration, and opportunities to contribute to the cybersecurity community.

@@ -4,8 +4,6 @@ Welcome to my cybersecurity portfolio repository. This repository contains a bri
 
 For a complete view of my portfolio, visit my [full portfolio](index.md).
 
-<h2>👨‍💻 CyberSecurity Projects:</h2>
-
 ## Repository Overview
 - **Certifications**: Displaying key certifications, including CompTIA Security+ and future certificates
 - **Projects**: Showcasing key cybersecurity projects and virtual experiences

@@ -33,7 +33,7 @@ Get to know me a little better: [More about me](aboutme.md)
 ---
 
 ### 📖 Background
-I started my career working in retail and eventually moved on to Procurement. I always had a passion for working IT as I was always known as the "computer guy" in my family. Cybersecurity wasn't as big as it is now when I went to school but after doing consderable research, I belive this is my true calling.
+I started my career working in retail and eventually moved on to Procurement. I always had a passion for working in IT as I was always known as the "computer guy" in my family. Cybersecurity wasn't as big as it is now when I went to school but after doing consderable research, I belive this is my true calling.
 
 ---
 

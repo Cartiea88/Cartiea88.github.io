@@ -57,7 +57,6 @@ I started my career working in retail and eventually moved on to Procurement. I 
 #### 💼 Professional Skills
    - Critical Thinking
    - Problem Solving
-   - Risk Assessment & Mitigation
    - Communication & Reporting
    - Documentation & Presentation
 

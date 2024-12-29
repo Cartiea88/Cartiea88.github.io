@@ -1,5 +1,9 @@
 <h1>Hi, I'm Chris!</h1>
 
+Welcome to my cybersecurity portfolio repository. This repository contains a brief overview of my professional experience, projects, certifications, hands-on labs, and resume related to cybersecurity.
+
+For a complete view of my portfolio, visit my [full portfolio](index.md).
+
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
 <h2> ✅ Certifications:</h2>

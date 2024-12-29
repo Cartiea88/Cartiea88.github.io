@@ -6,7 +6,7 @@ Here, you'll find a showcase of my journey through the world of cybersecurity, i
 
 ---
 
-### [About Me](aboutme.md) | [Projects](Projects.md) | [Resume](CyberSecurity_Resume.pdf) | [Blog](blog.md)
+### [About Me](aboutme.md) | [Projects](Projects.md) | [Resume](CyberSecurity_Resume.pdf) 
 
 ---
 

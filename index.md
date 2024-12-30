@@ -39,8 +39,9 @@ I started my career working in retail and eventually moved on to Procurement. I 
 
 ### ✅ Certifications
 
+- Google Cybersecurity Certification
 - CompTIA Security+
-- Google Cybersecurity
+- CompTIA Network+ (in-progress)
 
 ---
 

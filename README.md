@@ -7,7 +7,7 @@ For a complete view of my portfolio, visit my [full portfolio](index.md).
 ## Repository Overview
 - **Certifications**: Displaying key certifications, including CompTIA Security+ and future certificates
 - **Projects**: Showcasing key cybersecurity projects and virtual experiences
-- **Labs**: Highlighting hands-on labs from platforms like TryHackMe and HackThisSite.
+- **Labs**: Highlighting hands-on labs from platforms like TryHackMe, etc.
 - **Resume**: My professional resume is available for download.
 
 ## 📞 Contact Information

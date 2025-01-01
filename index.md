@@ -6,7 +6,7 @@ Here, you'll find a showcase of my journey through the world of cybersecurity, i
 
 ---
 
-### [About Me](aboutme.md) | [Projects](Projects.md) | [Internships](Internships.md) | [Resume](CyberSecurity_Resume.pdf) 
+### [About Me](aboutme.md) | [Projects](Projects.md) | [Internships](Internships.md) | [Blogs](https://medium.com/@cartiea88) |  [Resume](CyberSecurity_Resume.pdf) 
 
 ---
 

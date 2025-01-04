@@ -20,7 +20,7 @@ Here, you'll find a showcase of my journey through the world of cybersecurity, i
      - [💼 Professional Skills](#-professional-skills)
      - [🛠️ Tools/Languages](#%EF%B8%8F-toolslanguages)
 - [📂 Projects](#-projects)
-- [💻 Internships](#-internship)
+- [💻 Internships](#-internships)
 - [💬 Contact Information](#-contact-information)
 
 ---

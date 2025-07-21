@@ -42,6 +42,7 @@ I started my career working in retail and eventually moved on to Procurement. I 
 - Google Cybersecurity Certification
 - CompTIA Security+
 - CompTIA Network+
+- Microsoft Certified: Azure Fundamentals (AZ-900)
 
 ---
 

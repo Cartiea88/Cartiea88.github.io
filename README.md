@@ -2,7 +2,8 @@
 
 Welcome to my cybersecurity portfolio repository. This repository contains a brief overview of my professional experience, projects, certifications, hands-on labs, and resume related to cybersecurity.
 
-For a complete view of my portfolio, visit my [full portfolio](index.md).
+🧩 Check out my projects and homelab notes on:  
+🔗 [cartiea88.github.io](https://cartiea88.github.io).
 
 ## Repository Overview
 - **Certifications**: Displaying key certifications, including CompTIA Security+ and future certificates

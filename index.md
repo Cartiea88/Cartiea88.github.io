@@ -78,6 +78,8 @@ I started my career working in retail and eventually moved on to Procurement. I 
 
 ## 📂 Projects (In-Progress)
 
+**[Vulnerability Management Program Implementation](https://github.com/Cartiea88/Project-Vulnerability-Management-Program)**
+
 ---
 
 ## 📂 Internships (In-Progress)

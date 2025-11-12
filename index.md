@@ -39,10 +39,11 @@ I started my career working in retail and eventually moved on to Procurement. I 
 
 ### ✅ Certifications
 
-- Google Cybersecurity Certification
 - CompTIA Security+
 - CompTIA Network+
 - Microsoft Certified: Azure Fundamentals (AZ-900)
+- Splunk Core Certified User
+- Google Cybersecurity Certificate
 
 ---
 
@@ -52,32 +53,30 @@ I started my career working in retail and eventually moved on to Procurement. I 
      
 ---
 
-### 💡 Skills:
-
-   - Google Workspace (G-Suite)  
-   - OS Systems: Windows, Mac Os, Linux
-
 #### 🛡️ Technical Skills (In-Progress)
-
-
+- Vulnerability management & remediation tracking (home lab & coursework)  
+- Incident response and containment (home lab & Google Cybersecurity Certificate)  
+- Security operations and monitoring (home lab & certificate labs)  
+- Log analysis and SIEM familiarity  
+- System administration – Windows, macOS, Linux (home lab)  
+- Cloud security fundamentals and VM deployment – Azure / Google Cloud (home lab & certificate)  
+- Access control and identity management (Google Cybersecurity Certificate)  
+- Endpoint security – antivirus, anti-malware, device protection (certificate labs)  
+- Policy and procedure documentation
 
 #### 🛠️ Tools/Languages
-  - Ticketing / Workflow: ServiceNow
-  - SIEM & Monitoring: Splunk
-  - Vulnerability Management: Nessus
-  - Cloud & Virtualization: Azure Virtual Machines
-  - Scripting / Automation:PowerShell, BASH
-  - Operating Systems: Windows, macOS, Linux
-  - Productivity & Collaboration: Google Workspace (G-Suite)
-  
-
-     
-
+  - **Ticketing / Workflow:** ServiceNow
+  - **SIEM & Monitoring:** Splunk
+  - **Vulnerability Management:** Nessus
+  - **Cloud & Virtualization:** Azure Virtual Machines
+  - **Scripting / Automation:** Python, PowerShell, Linux/BASH
 ---
 
 ## 📂 Projects
 
 **[Vulnerability Management Program Implementation](https://github.com/Cartiea88/Project-Vulnerability-Management-Program)**
+   - Deployed Azure Virtual Machines to host a Nessus scan engine and multiple scan targets  
+   - Conducted authenticated vulnerability scans, analyzed findings, prioritized remediation  
 
 ---
 

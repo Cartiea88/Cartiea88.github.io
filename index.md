@@ -15,7 +15,7 @@ Here, you'll find a showcase of my journey through the world of IT & cybersecuri
 - [📖 Background](#-background)
 - [🎓 Certifications](#-certifications)
 - [🎓 Education](#-education)
-- [🛡️ Technical Skills](#technical-skills)
+- [🧰 Technical Skills](#technical-skills)
 - [🛠️ Tools/Languages](#-tools-languages)
 - [📂 Projects](#-projects)
 - [💻 Internships](#-internships)
@@ -44,14 +44,7 @@ I started my career working in retail and eventually moved on to Procurement. I 
 - Google Cybersecurity Certificate
 
 ---
-
-## 🎓 Education
-   - ***Northern Illinois University, Dekalb, IL***
-      - Bachelor of Science (B.S.) Buisness Administration
-     
----
-
-## Technical Skills
+## 🧰Technical Skills
    - Vulnerability management & remediation tracking (home lab & coursework)  
    - Incident response and containment (home lab & Google Cybersecurity Certificate)  
    - Security operations and monitoring (home lab & certificate labs)  
@@ -85,6 +78,11 @@ I started my career working in retail and eventually moved on to Procurement. I 
         - Helped identify and report security threats such as phishing 
         - Analyzed and identified which areas of the business needed more robust security training and implemented training courses and procedures for those teams
 
+---
+
+## 🎓 Education
+   - ***Northern Illinois University, Dekalb, IL***
+      - Bachelor of Science (B.S.) Buisness Administration
 ---
 
 ## 📞 Contact Information

@@ -60,23 +60,22 @@ I started my career working in retail and eventually moved on to Procurement. I 
 #### 🛡️ Technical Skills (In-Progress)
 
 
-#### 💼 Professional Skills
-   - Critical Thinking
-   - Problem Solving
-   - Communication & Reporting
-   - Documentation & Presentation
 
 #### 🛠️ Tools/Languages
-   - Linux
-   - Python
-   - ServiceNow
-   - VirtualBox
-   - Active Directory
+  - Ticketing / Workflow: ServiceNow
+  - SIEM & Monitoring: Splunk
+  - Vulnerability Management: Nessus
+  - Cloud & Virtualization: Azure Virtual Machines
+  - Scripting / Automation:PowerShell, BASH
+  - Operating Systems: Windows, macOS, Linux
+  - Productivity & Collaboration: Google Workspace (G-Suite)
+  
+
      
 
 ---
 
-## 📂 Projects (In-Progress)
+## 📂 Projects
 
 **[Vulnerability Management Program Implementation](https://github.com/Cartiea88/Project-Vulnerability-Management-Program)**
 

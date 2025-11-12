@@ -55,6 +55,8 @@ I started my career working in retail and eventually moved on to Procurement. I 
    - Endpoint security – antivirus, anti-malware, device protection (certificate labs)  
    - Policy and procedure documentation
 
+---
+
 ## 💻Tools/Languages
   - **Ticketing / Workflow:** ServiceNow
   - **SIEM & Monitoring:** Splunk

@@ -52,7 +52,7 @@ I started my career working in retail and eventually moved on to Procurement. I 
      
 ---
 
-### 🛡️ Technical Skills (In-Progress)
+### 🛡️ Technical Skills
 - Vulnerability management & remediation tracking (home lab & coursework)  
 - Incident response and containment (home lab & Google Cybersecurity Certificate)  
 - Security operations and monitoring (home lab & certificate labs)  

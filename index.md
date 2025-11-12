@@ -16,8 +16,8 @@ Here, you'll find a showcase of my journey through the world of IT & cybersecuri
    - [🎓 Certifications](#-certifications)
    - [🎓 Education](#-education)
    - [💡 Skills](#-skills)
-     - [🛡️ Technical Skills](#%EF%B8%8F-technical-skills)
-     - [🛠️ Tools/Languages](#%EF%B8%8F-toolslanguages)
+     - [🛡️ Technical Skills](#-technical-skills)
+     - [🛠️ Tools/Languages](#-toolslanguages)
 - [📂 Projects](#-projects)
 - [💻 Internships](#-internships)
 - [💬 Contact Information](#-contact-information)
@@ -63,7 +63,7 @@ I started my career working in retail and eventually moved on to Procurement. I 
 - Endpoint security – antivirus, anti-malware, device protection (certificate labs)  
 - Policy and procedure documentation
 
-#### 🛠️ Tools/Languages
+### 🛠️ Tools/Languages
   - **Ticketing / Workflow:** ServiceNow
   - **SIEM & Monitoring:** Splunk
   - **Vulnerability Management:** Nessus

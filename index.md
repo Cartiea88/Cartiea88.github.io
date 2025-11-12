@@ -11,7 +11,7 @@ Here, you'll find a showcase of my journey through the world of IT & cybersecuri
 ---
 
 ## Table of Contents
-- [👨🏽‍💻 About Me](#-about-me)
+- [👨🏽‍💻 About Me](-#about-me)
    - [📖 Background](#-background)
    - [🎓 Certifications](#-certifications)
    - [🎓 Education](#-education)
@@ -52,7 +52,7 @@ I started my career working in retail and eventually moved on to Procurement. I 
      
 ---
 
-#### 🛡️ Technical Skills (In-Progress)
+### 🛡️ Technical Skills (In-Progress)
 - Vulnerability management & remediation tracking (home lab & coursework)  
 - Incident response and containment (home lab & Google Cybersecurity Certificate)  
 - Security operations and monitoring (home lab & certificate labs)  

@@ -14,11 +14,11 @@ Here, you'll find a showcase of my journey through the world of IT & cybersecuri
 - [👨🏽‍💻 About Me](-#about-me)
 - [📖 Background](#-background)
 - [🎓 Certifications](#-certifications)
-- [🎓 Education](#-education)
 - [🧰 Technical Skills](#technical-skills)
-- [Tools / Languages](#toolslanguages)
+- [💻 Tools / Languages](#toolslanguages)
 - [📂 Projects](#-projects)
-- [💻 Internships](#-internships)
+- [💼 Internships](#-internships)
+- [🎓 Education](#-education)
 - [💬 Contact Information](#-contact-information)
 
 ---
@@ -55,7 +55,7 @@ I started my career working in retail and eventually moved on to Procurement. I 
    - Endpoint security – antivirus, anti-malware, device protection (certificate labs)  
    - Policy and procedure documentation
 
-## Tools/Languages
+## 💻Tools/Languages
   - **Ticketing / Workflow:** ServiceNow
   - **SIEM & Monitoring:** Splunk
   - **Vulnerability Management:** Nessus
@@ -72,7 +72,7 @@ I started my career working in retail and eventually moved on to Procurement. I 
 
 ---
 
-## 💻 Internships
+## 💼 Internships
    - ## Mastercard Cybersecurity virtual experience program - December 2024
         - Completed a job simulation where I served as an analyst on Mastercard’s Security Awareness Team 
         - Helped identify and report security threats such as phishing 

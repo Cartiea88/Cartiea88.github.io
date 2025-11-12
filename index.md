@@ -17,7 +17,6 @@ Here, you'll find a showcase of my journey through the world of IT & cybersecuri
    - [🎓 Education](#-education)
    - [💡 Skills](#-skills)
      - [🛡️ Technical Skills](#%EF%B8%8F-technical-skills)
-     - [💼 Professional Skills](#-professional-skills)
      - [🛠️ Tools/Languages](#%EF%B8%8F-toolslanguages)
 - [📂 Projects](#-projects)
 - [💻 Internships](#-internships)

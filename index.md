@@ -16,7 +16,7 @@ Here, you'll find a showcase of my journey through the world of IT & cybersecuri
 - [🎓 Certifications](#-certifications)
 - [🎓 Education](#-education)
 - [🛡️ Technical Skills](#technical-skills)
-- [🛠️ Tools/Languages](#-tools--languages)
+- [🛠️ Tools/Languages](#-tools-languages)
 - [📂 Projects](#-projects)
 - [💻 Internships](#-internships)
 - [💬 Contact Information](#-contact-information)
@@ -51,7 +51,7 @@ I started my career working in retail and eventually moved on to Procurement. I 
      
 ---
 
-## 🛡️ Technical Skills
+## Technical Skills
    - Vulnerability management & remediation tracking (home lab & coursework)  
    - Incident response and containment (home lab & Google Cybersecurity Certificate)  
    - Security operations and monitoring (home lab & certificate labs)  
@@ -62,7 +62,7 @@ I started my career working in retail and eventually moved on to Procurement. I 
    - Endpoint security – antivirus, anti-malware, device protection (certificate labs)  
    - Policy and procedure documentation
 
-## 🛠️ Tools/Languages
+## Tools/Languages
   - **Ticketing / Workflow:** ServiceNow
   - **SIEM & Monitoring:** Splunk
   - **Vulnerability Management:** Nessus

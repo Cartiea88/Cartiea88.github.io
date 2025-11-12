@@ -15,8 +15,8 @@ Here, you'll find a showcase of my journey through the world of IT & cybersecuri
 - [📖 Background](#-background)
 - [🎓 Certifications](#-certifications)
 - [🎓 Education](#-education)
-- [🛡️ Technical Skills](#technical-skills)
-- [🛠️ Tools & Platforms](#tools--platforms)
+- [🛡️ Technical Skills](#-technical--skills)
+- [🛠️ Tools/Languages](#tools--languages)
 - [📂 Projects](#-projects)
 - [💻 Internships](#-internships)
 - [💬 Contact Information](#-contact-information)
@@ -30,12 +30,12 @@ Get to know me a little better: [More about me](aboutme.md)
 
 ---
 
-### 📖 Background
+## 📖 Background
 I started my career working in retail and eventually moved on to Procurement. I always had a passion for working in IT as I was always known as the "computer guy" in my family. IT and even Cybersecurity wasn't as big as it is now when I went to school but after doing consderable research, I belive this is my true calling.
 
 ---
 
-### ✅ Certifications
+## ✅ Certifications
 
 - CompTIA Security+
 - CompTIA Network+
@@ -45,24 +45,24 @@ I started my career working in retail and eventually moved on to Procurement. I 
 
 ---
 
-### 🎓 Education
+## 🎓 Education
    - ***Northern Illinois University, Dekalb, IL***
       - Bachelor of Science (B.S.) Buisness Administration
      
 ---
 
-### 🛡️Technical Skills
-- Vulnerability management & remediation tracking (home lab & coursework)  
-- Incident response and containment (home lab & Google Cybersecurity Certificate)  
-- Security operations and monitoring (home lab & certificate labs)  
-- Log analysis and SIEM familiarity  
-- System administration – Windows, macOS, Linux (home lab)  
-- Cloud security fundamentals and VM deployment – Azure / Google Cloud (home lab & certificate)  
-- Access control and identity management (Google Cybersecurity Certificate)  
-- Endpoint security – antivirus, anti-malware, device protection (certificate labs)  
-- Policy and procedure documentation
+## 🛡️ Technical Skills
+   - Vulnerability management & remediation tracking (home lab & coursework)  
+   - Incident response and containment (home lab & Google Cybersecurity Certificate)  
+   - Security operations and monitoring (home lab & certificate labs)  
+   - Log analysis and SIEM familiarity  
+   - System administration – Windows, macOS, Linux (home lab)  
+   - Cloud security fundamentals and VM deployment – Azure / Google Cloud (home lab & certificate)  
+   - Access control and identity management (Google Cybersecurity Certificate)  
+   - Endpoint security – antivirus, anti-malware, device protection (certificate labs)  
+   - Policy and procedure documentation
 
-### 🛠️Tools/Languages
+## 🛠️ Tools/Languages
   - **Ticketing / Workflow:** ServiceNow
   - **SIEM & Monitoring:** Splunk
   - **Vulnerability Management:** Nessus

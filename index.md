@@ -79,7 +79,7 @@ I started my career working in retail and eventually moved on to Procurement. I 
 
 ---
 
-## 💻 Internships (In-Progress)
+## 💻 Internships
    - ## Mastercard Cybersecurity virtual experience program - December 2024
         - Completed a job simulation where I served as an analyst on Mastercard’s Security Awareness Team 
         - Helped identify and report security threats such as phishing 

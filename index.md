@@ -15,7 +15,7 @@ Here, you'll find a showcase of my journey through the world of IT & cybersecuri
 - [📖 Background](#-background)
 - [🎓 Certifications](#-certifications)
 - [🎓 Education](#-education)
-- [🛡️ Technical Skills](#-technical-skills)
+- [🛡️ Technical Skills](#technical-skills)
 - [🛠️ Tools/Languages](#-tools--languages)
 - [📂 Projects](#-projects)
 - [💻 Internships](#-internships)
